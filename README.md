@@ -2,6 +2,21 @@
 > Fast, elegant, and lightweight hotkey launcher for Windows 10 and 11.  
 > برنامج إدارة وتشغيل الاختصارات السريعة فائق السرعة والأناقة لنظام ويندوز.
 
+[![GitHub Stars](https://img.shields.io/github/stars/alarifi/Insight-Hot-Key?style=social)](https://github.com/alarifi/Insight-Hot-Key)
+[![Release](https://img.shields.io/badge/Release-v1.0.0_Pro-00D26A)](https://github.com/alarifi/Insight-Hot-Key)
+[![Platform](https://img.shields.io/badge/Platform-Windows_11_%7C_10-00E5FF)](https://github.com/alarifi/Insight-Hot-Key)
+[![Rating](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐_5_Stars-FFD700)](#-support--rate-us--ادعمنا-بالتقييم)
+
+---
+
+## ⭐ Support & Rate Us / ادعمنا بالتقييم
+
+> **⭐ Loving Insight Hot Key? Please give it a 5-Star rating on GitHub!**  
+> If you find this launcher fast, helpful, and productive, please click the **Star ⭐** button at the top right of this repository to show your support!
+> 
+> **⭐ إذا أعجبك البرنامج، نرجو منك دعمه بالتقييم بـ 5 نجوم!**  
+> إذا نال البرنامج والواجهة العربية الفاخرة إعجابك، يسعدنا جداً دعمك للمشروع بالضغط على زر **Star ⭐** في أعلى يمين الصفحة لدعم استمرار التطوير المجاني.
+
 ---
 
 ## 🌟 Highlights / أبرز الميزات
@@ -73,7 +88,7 @@ Refer to [SHA256SUMS.txt](SHA256SUMS.txt) for cryptographic checksums of all rel
 
 - **Operating System**: Windows 11 / Windows 10 (64-bit)
 - **Architecture**: x64
-- **Runtime**: Self-contained / .NET 8 Desktop Runtime (bundled in installer and portable package)
+- **Runtime**: Self-contained (no external dependencies needed)
 - **Memory**: Less than 20 MB RAM
 
 ---
