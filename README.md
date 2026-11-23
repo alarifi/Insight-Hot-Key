@@ -38,17 +38,18 @@
 
 ## 🚀 Download & Installation / التحميل والتثبيت
 
-You can find the latest release binaries inside the `output/` folder:
+Both the official installer and portable versions are available directly in this repository:
 
-1. **Portable Version (`InsightHotKey_v1.0.0_Portable.zip`)**:
-   - Extract anywhere (e.g. USB flash drive or `PortableApps`).
-   - Run `InsightHotKey.exe`. No installation required.
-2. **Setup Installer (`InsightHotKey_Setup_v1.0.0_x64.exe`)**:
-   - Standard 64-bit Windows installer created with Inno Setup.
-   - Includes Start Menu shortcuts, optional Desktop shortcut, and uninstaller.
+1. **Setup Installer**:
+   - 📦 [InsightHotKey_Setup_v1.0.0_x64.exe](InsightHotKey_Setup_v1.0.0_x64.exe)
+   - Standard 64-bit Windows installer with Start Menu shortcuts and optional Desktop shortcut.
+
+2. **Portable Version**:
+   - 💼 [InsightHotKey_v1.0.0_Portable.zip](InsightHotKey_v1.0.0_Portable.zip)
+   - Extract anywhere (e.g. USB flash drive or `PortableApps`) and run directly. Zero installation needed.
 
 ### Verification (SHA-256 Checksums)
-All release packages include a `SHA256SUMS.txt` file in `output/` for security verification.
+Refer to [SHA256SUMS.txt](SHA256SUMS.txt) for cryptographic checksums of all release packages.
 
 ---
 
@@ -68,29 +69,16 @@ All release packages include a `SHA256SUMS.txt` file in `output/` for security v
 
 ---
 
-## 🛠️ Build from Source / البناء من المصدر
+## 💻 System Requirements / متطلبات التشغيل
 
-### Requirements:
-- Windows 10 or 11 (x64)
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- Inno Setup 6 (optional, for compiling the setup installer)
-
-### Build Commands:
-```powershell
-# 1. Clone repository
-git clone https://github.com/insight-software/insight-hot-key.git
-cd insight-hot-key
-
-# 2. Build Release binary
-dotnet build -c Release InsightHotKey.csproj
-
-# 3. Compile Inno Setup installer (optional)
-iscc "Insight Hot Key.iss"
-```
+- **Operating System**: Windows 11 / Windows 10 (64-bit)
+- **Architecture**: x64
+- **Runtime**: Self-contained / .NET 8 Desktop Runtime (bundled in installer and portable package)
+- **Memory**: Less than 20 MB RAM
 
 ---
 
 ## 📄 License / الترخيص
 
 Copyright (c) 2026 INSIGHT Software. All rights reserved.  
-Distributed under the terms described in the included `LICENSE.txt` file.
+Distributed under the terms described in the included `LICENSE` file.
