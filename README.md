@@ -1,11 +1,20 @@
-# Insight Hot Key ⚡
-> Fast, elegant, and lightweight hotkey launcher for Windows 10 and 11.  
-> برنامج إدارة وتشغيل الاختصارات السريعة فائق السرعة والأناقة لنظام ويندوز.
+<p align="center">
+  <img src="app.png" alt="Insight Hot Key Icon" width="108" height="108">
+</p>
 
-[![GitHub Stars](https://img.shields.io/github/stars/alarifi/Insight-Hot-Key?style=social)](https://github.com/alarifi/Insight-Hot-Key)
-[![Release](https://img.shields.io/badge/Release-v1.0.0_Pro-00D26A)](https://github.com/alarifi/Insight-Hot-Key)
-[![Platform](https://img.shields.io/badge/Platform-Windows_11_%7C_10-00E5FF)](https://github.com/alarifi/Insight-Hot-Key)
-[![Rating](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐_5_Stars-FFD700)](#-support--rate-us--ادعمنا-بالتقييم)
+<h1 align="center">Insight Hot Key ⚡</h1>
+
+<p align="center">
+  <strong>Fast, elegant, and lightweight hotkey launcher for Windows 10 & 11</strong><br>
+  <strong>برنامج إدارة وتشغيل الاختصارات السريعة فائق السرعة والأناقة لنظام ويندوز</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alarifi/Insight-Hot-Key"><img src="https://img.shields.io/github/stars/alarifi/Insight-Hot-Key?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/alarifi/Insight-Hot-Key/releases"><img src="https://img.shields.io/badge/Release-v1.0.0_Pro-00D26A" alt="Release"></a>
+  <a href="https://github.com/alarifi/Insight-Hot-Key"><img src="https://img.shields.io/badge/Platform-Windows_11_%7C_10-00E5FF" alt="Platform"></a>
+  <a href="#-support--rate-us--ادعمنا-بالتقييم"><img src="https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐_5_Stars-FFD700" alt="Rating"></a>
+</p>
 
 ---
 
