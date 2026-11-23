@@ -1,0 +1,20 @@
+## Build & Output Artifacts
+bin/
+obj/
+output/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio & JetBrains Cache
+.vs/
+.idea/
+*.rsuser
+
+## Logs and Temp
+*.log
+*.tmp
+*.err.txt
+preview_*.png
+final_*.png

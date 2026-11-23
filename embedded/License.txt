@@ -1,0 +1,30 @@
+INSIGHT HOT KEY - END USER LICENSE AGREEMENT (EULA)
+Copyright (c) 2026 INSIGHT Software. All rights reserved.
+
+1. PRODUCT AND LICENSE GRANT
+This agreement applies to the software application "Insight Hot Key" developed by INSIGHT Software. INSIGHT Software grants you a revocable, non-exclusive, non-transferable license to install and use the application on personal or workstation computers running Microsoft Windows in accordance with this agreement.
+
+2. PURPOSE AND USAGE
+Insight Hot Key is an advanced, lightweight hotkey launcher designed to streamline application launching, folder navigation, web links, text snippets, and system actions. 
+The software operates in both portable and installed modes, saving its settings locally in a clean, isolated environment without intrusive registry modifications.
+
+3. PRIVACY AND DATA PERSISTENCE
+Insight Hot Key operates entirely offline. It does not transmit telemetry, personal files, hotkey usage statistics, or user data to external servers. All custom hotkeys, application paths, and user preferences remain stored locally on your device.
+
+4. THIRD-PARTY NOTICES AND SYSTEM INTEGRATION
+Insight Hot Key integrates with Windows APIs (Win32 P/Invoke) for global hotkey registration, system tray notification, and foreground window management. Microsoft .NET runtime libraries used by the application are subject to Microsoft's software licenses.
+
+5. RESTRICTIONS
+Except where permitted by applicable law, you may not:
+- Reverse engineer, decompile, or disassemble the application for malicious purposes.
+- Rent, lease, lend, or redistribute the proprietary installer without prior written permission from INSIGHT Software.
+- Remove or alter any copyright, trademark, or ownership notices.
+
+6. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+Insight Hot Key is provided "AS IS", without warranty of any kind, express or implied. In no event shall INSIGHT Software be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the software.
+
+7. TERMINATION AND UNINSTALLATION
+You may terminate this agreement at any time by uninstalling the application or deleting its portable directory. All associated local files can be removed cleanly at the user's discretion.
+
+INSIGHT Software
+Website: https://github.com/insight-software
