@@ -18,6 +18,8 @@
 
 ---
 
+[Official product page · صفحة البرنامج الرسمية](https://software.insight-ye.com/software/insight-hotkey)
+
 ## ⭐ Support & Rate Us / ادعمنا بالتقييم
 
 > **⭐ Loving Insight Hot Key? Please give it a 5-Star rating on GitHub!**  
