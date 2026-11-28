@@ -18,7 +18,7 @@
 
 ---
 
-[Official product page · صفحة البرنامج الرسمية](https://software.insight-ye.com/software/insight-hotkey)
+[Official Product Page (English)](https://software.insight-ye.com/software/insight-hotkey) · [صفحة البرنامج الرسمية (بالعربية)](https://software.insight-ye.com/ar/software/insight-hotkey)
 
 ## ⭐ Support & Rate Us / ادعمنا بالتقييم
 
